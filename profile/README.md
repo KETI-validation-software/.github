@@ -10,12 +10,7 @@ validation-tool/
 │
 ├─ core/                       # 공통 엔진 / 도메인
 │   ├─ functions.py            # 공통 유틸
-│   ├─ json_checker.py         # JSON 스키마 검증
-│   ├─ validators/             # 검증 모듈
-│   │   ├─ base_validator.py
-│   │   ├─ system_validator.py
-│   │   └─ platform_validator.py
-│   └─ reports/                # 리포트 생성 모듈
+│   └─ json_checker.py         # JSON 스키마 검증
 │
 ├─ api/                        # API 서버/웹훅
 │   ├─ api_server.py
@@ -36,11 +31,6 @@ validation-tool/
 │       ├─ videoSchema.py
 │       └─ requests/
 │
-├─ ui/                         # GUI
-│   ├─ runner_gui/             # 시험 진행 GUI (정수인 담당)
-│   │   └─ ...
-│   └─ info_gui/               # 시험 정보 GUI (장예진 담당)
-│       └─ ...
 │
 ├─ assets/                     # 리소스
 │   ├─ fonts/
@@ -49,8 +39,8 @@ validation-tool/
 │   └─ images/
 │       └─ 버튼 이미지들
 │
-└─ tests/                      # 단위/통합 테스트
-    ├─ test_validators.py
-    ├─ test_api.py
-    └─ test_ui.py
+├─ launcher_GUI.py            # 장예진 담당
+├─ platformVal_all.py         # 정수인 담당
+├─ systemVal_app.py           # 정수인 담당
+└─ 
 ```
