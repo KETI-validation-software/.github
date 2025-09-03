@@ -1,5 +1,37 @@
 # Project Structure
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff7da07d-f66c-4373-9a35-b12f75e220a6" alt="<프로젝트명> Banner" width="100%" />
+</p>
+
+<h1 align="center">🧠 <프로젝트명> · <한줄 슬로건></h1>
+
+<p align="center">
+  <!-- Release -->
+  <a href="https://github.com/<org>/<repo>/releases">
+    <img src="https://img.shields.io/github/v/release/<org>/<repo>?label=release" />
+  </a>
+
+  <!-- Python 버전 -->
+  <img src="https://img.shields.io/badge/python-3.9%20-blue" />
+
+  <!-- CI (GitHub Actions) -->
+  <a href="https://github.com/<org>/<repo>/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/<org>/<repo>/tests.yml?label=ci" />
+  </a>
+
+  <!-- Coverage -->
+  <a href="https://codecov.io/gh/<org>/<repo>">
+    <img src="https://img.shields.io/codecov/c/github/<org>/<repo>?label=coverage" />
+  </a>
+
+  <!-- Custom 기능 배지 -->
+  <img src="https://img.shields.io/badge/Webhook-supported-brightgreen" />
+  <img src="https://img.shields.io/badge/PyInstaller-ready-orange" />
+  <img src="https://img.shields.io/badge/GUI-PyQt5-ff69b4" />
+  <img src="https://img.shields.io/badge/Report-PDF%20Export-success" />
+</p>
+
 ```text
 validation-tool/
 ├─ requirements.txt
