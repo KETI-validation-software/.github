@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/Report-PDF%20Export-success" />
 </p>
 
-# Project Structure
+
+## Project Structure
 
 ```text
 validation-tool/
