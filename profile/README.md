@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Webhook-supported-brightgreen" />
   <img src="https://img.shields.io/badge/PyInstaller-ready-orange" />
   <img src="https://img.shields.io/badge/GUI-PyQt5-ff69b4" />
-  <img src="https://img.shields.io/badge/Report-PDF%20Export-success" />
 </p>
 
 
