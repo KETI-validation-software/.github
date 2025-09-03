@@ -1,6 +1,6 @@
 # Validation Sofeware
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d15b5f1f-2052-4b2e-b914-270107ee7431" alt="<프로젝트명> Banner" width="80%" />
+  <img src="https://github.com/user-attachments/assets/d15b5f1f-2052-4b2e-b914-270107ee7431" alt="<프로젝트명> Banner" width="70%" />
 </p>
 
 <p align="center">
