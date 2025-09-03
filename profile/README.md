@@ -1,17 +1,12 @@
 # Project Structure
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ff7da07d-f66c-4373-9a35-b12f75e220a6" alt="<프로젝트명> Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d15b5f1f-2052-4b2e-b914-270107ee7431" alt="<프로젝트명> Banner" width="100%" />
 </p>
 
-<h1 align="center">🧠 <프로젝트명> · <한줄 슬로건></h1>
+<h1 align="center"> Validation Software </h1>
 
 <p align="center">
-  <!-- Release -->
-  <a href="https://github.com/<org>/<repo>/releases">
-    <img src="https://img.shields.io/github/v/release/<org>/<repo>?label=release" />
-  </a>
-
   <!-- Python 버전 -->
   <img src="https://img.shields.io/badge/python-3.9%20-blue" />
 
