@@ -1,8 +1,11 @@
+# Validation Sofeware
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d15b5f1f-2052-4b2e-b914-270107ee7431" alt="<프로젝트명> Banner" width="80%" />
 </p>
 
-<h1 align="center"> Validation Software </h1>
+<p align="center">
+  <b>Validate and integrate physical security platforms and systems with a unified tool.</b>
+</p>
 
 <p align="center">
   <!-- Python 버전 -->
