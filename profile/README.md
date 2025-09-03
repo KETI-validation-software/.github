@@ -1,5 +1,3 @@
-# Project Structure
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d15b5f1f-2052-4b2e-b914-270107ee7431" alt="<프로젝트명> Banner" width="100%" />
 </p>
@@ -26,6 +24,8 @@
   <img src="https://img.shields.io/badge/GUI-PyQt5-ff69b4" />
   <img src="https://img.shields.io/badge/Report-PDF%20Export-success" />
 </p>
+
+# Project Structure
 
 ```text
 validation-tool/
