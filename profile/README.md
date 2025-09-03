@@ -12,12 +12,7 @@
   <a href="https://github.com/<org>/<repo>/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/<org>/<repo>/tests.yml?label=ci" />
   </a>
-
-  <!-- Coverage -->
-  <a href="https://codecov.io/gh/<org>/<repo>">
-    <img src="https://img.shields.io/codecov/c/github/<org>/<repo>?label=coverage" />
-  </a>
-
+  
   <!-- Custom 기능 배지 -->
   <img src="https://img.shields.io/badge/Webhook-supported-brightgreen" />
   <img src="https://img.shields.io/badge/PyInstaller-ready-orange" />
