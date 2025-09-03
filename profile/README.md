@@ -7,11 +7,6 @@
 <p align="center">
   <!-- Python 버전 -->
   <img src="https://img.shields.io/badge/python-3.9%20-blue" />
-
-  <!-- CI (GitHub Actions) -->
-  <a href="https://github.com/<org>/<repo>/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/<org>/<repo>/tests.yml?label=ci" />
-  </a>
   
   <!-- Custom 기능 배지 -->
   <img src="https://img.shields.io/badge/Webhook-supported-brightgreen" />
