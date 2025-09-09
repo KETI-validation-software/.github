@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- Python 버전 -->
-  <img src="https://img.shields.io/badge/python-3.9%20-blue" />
+  <img src="https://img.shields.io/badge/python-3.9.13%20-blue" />
   
   <!-- Custom 기능 배지 -->
   <img src="https://img.shields.io/badge/Webhook-supported-brightgreen" />
