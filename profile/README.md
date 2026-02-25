@@ -128,6 +128,6 @@ pyinstaller --onedir --windowed --splash=assets/image/splash/splash.png \
 
 ---
 
-## 📋 릴리즈
+## 릴리즈
 
 최신 빌드 및 변경 사항은 [Releases](../../releases) 페이지를 참고하세요.
